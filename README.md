@@ -33,12 +33,7 @@ Docker, Jenkins, Git, REST APIs, Microservices, Clean Architecture
 
 ---
 
-## 📫 Let’s Connect
-
-I'm always open to meaningful conversations, collaboration on interesting backend projects, or just chatting about tech over coffee ☕️.
-
 - [LinkedIn](https://www.linkedin.com/in/jplonghi)
-- [Email](mailto:your.email@example.com)
 
 ---
 
