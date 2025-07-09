@@ -1,16 +1,48 @@
-### Hi there 👋 I'm Longhi and like coffee ☕️
+# 👋 Hi there, I'm Jose Longhi
 
-<!--
-**jplonghi/jplonghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Husband, father, and computer engineer with a passion for backend development and software architecture. I’ve been building software professionally since 2006, and I love solving complex problems that deliver real value to people and businesses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Computer Science graduate with nearly 20 years of experience in the software industry  
+- 🚛 Worked across diverse industries including stock market platforms, pharmaceutical financial services, and logistics/trucking  
+- ⚙️ Backend specialist focused on performance, scalability, and clean architecture  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+C# / .NET (Core & Framework), T-SQL, LINQ, basic JavaScript
+
+**Databases & Messaging:**  
+MongoDB, MS SQL Server, Kafka, RabbitMQ
+
+**Tools & DevOps:**  
+Docker, Jenkins, Git, REST APIs, Microservices, Clean Architecture
+
+---
+
+## 🚀 What I’m Working On
+
+- Exploring modern .NET patterns and performance optimization  
+- Designing scalable systems using event-driven architecture  
+- Learning more about container orchestration and DevOps pipelines  
+
+---
+
+## 📫 Let’s Connect
+
+I'm always open to meaningful conversations, collaboration on interesting backend projects, or just chatting about tech over coffee ☕️.
+
+- [LinkedIn](https://www.linkedin.com/in/jplonghi)
+- [Email](mailto:your.email@example.com)
+
+---
+
+> *Perfection is not reached when there is nothing to be added anymore, but when there is nothing to be left out anymore.*  
+> *— Antoine De Saint-Exupéry*
+
+Thanks for visiting my profile!
