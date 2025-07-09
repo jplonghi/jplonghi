@@ -25,10 +25,9 @@ Docker, Jenkins, Git, REST APIs, Microservices, Clean Architecture
 - Designing scalable systems using event-driven architecture  
 - Learning more about container orchestration and DevOps pipelines  
 
-
-> *Perfection is not reached when there is nothing to be added anymore, but when there is nothing to be left out anymore.*  
-> *— Antoine De Saint-Exupéry*
-
 Thanks for visiting my profile!
 
 - [LinkedIn](https://www.linkedin.com/in/jplonghi)
+
+> *Perfection is not reached when there is nothing to be added anymore, but when there is nothing to be left out anymore.*  
+> *— Antoine De Saint-Exupéry*
